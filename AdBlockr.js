@@ -1,3 +1,16 @@
+// ==UserScript==
+// @name         YT ADBlockr
+// @namespace    http://tampermonkey.net/
+// @version      1
+// @description  try to take over the world!
+// @author       Kaljmarik
+// @match        https://www.youtube.com/*
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
+// @downloadURL  https://github.com/DaniilSsv/BlockAds/blob/main/AdBlockr.js
+// @updateURL    https://github.com/DaniilSsv/BlockAds/blob/main/AdBlockr.js
+// @grant        none
+// ==/UserScript==
+
 (function()
  {
     // Enable The Undetected Adblocker
